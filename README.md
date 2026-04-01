@@ -1,13 +1,13 @@
-# Tugas-6_JS_DindaNurfadhia_STTNF
+## Tugas-6_JS_DindaNurfadhia_STTNF
 
-## Deskripsi
+# Deskripsi Tugas
 Membuat sebuah sistem untuk mengelola data pengguna sederhana dengan menerapkan javascript
 
-## Fitur
+# Fitur
 - Tambah data
 - Hapus data
 - Menampilkan list
 
-## Cara Menjalankan
+# Cara Menjalankan
 1. Buka index.html
 2. Jalankan dengan Live Server
